@@ -1,4 +1,4 @@
-FROM missemily2022/anasty:heroku
+FROM fiction7799/mirlate:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
